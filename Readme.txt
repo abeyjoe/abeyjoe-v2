@@ -1,6 +1,6 @@
-Thanks for downloading this template!
+Abeyjoe version 2 update November 6, 2023
 
-Template Name: iPortfolio
-Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Author: Abiodun Adedapo (Abeyjoe)
+Email: abeyjoe18@gmail.com
+Phone: +2349024056004
+Github: github.com/abeyjoe
